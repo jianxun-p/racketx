@@ -1,0 +1,11 @@
+[package]
+name = "racketx"
+version = "0.0.1"
+edition = "2021"
+authors = ["daimaoguai"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+proc-macro = true
+
